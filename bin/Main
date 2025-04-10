@@ -6,7 +6,8 @@ Desarrolar un algoritmo que permita el cáclculo del salario de un empleado teni
 - Se debe ingresar el documento de identidad
 - El empleado podrá seleccionar un día de descanso (L-V)
 - El empleado tendrá auxilio de transporte si su salario bruto no supera los 25MMLV
-- El empleado recibirá una bonificación del 10% sobre su salario bruto si no supera los 25MML
+- El empleado recibirá una bonificación del 10% sobre su salario bruto si no
+supera los 25MML
 - El empleado no podrá trabajar menos de 24 horas
 - El empleado recibirá pago de horas extras si supera las 96 horas
 - Calcular las deducciones del salario (salud y pensión)
